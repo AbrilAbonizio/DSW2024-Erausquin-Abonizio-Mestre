@@ -3,14 +3,12 @@
 ## Grupo
 ### Integrantes
 * legajo - Apellido(s), Nombre(s)
-* 51490  - Erausquin, Sofia
 * 51153  - Abonizio, Abril
 * 51494  - Mestre, Marcos
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
-*Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
+* [FullStack](https://github.com/AbrilAbonizio/TP-DSW-Centro-Ski.git)
+
 
 ## Tema
 ### Descripción
@@ -30,8 +28,8 @@
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad|
-|CRUD dependiente|1. CRUD Habitación {depende de} CRUD Tipo Habitacion<br>2. CRUD Cliente {depende de} CRUD Localidad|
+|CRUD simple|1. CRUD Cliente <br>2. CRUD TipoPase<br>.
+|CRUD dependiente|1. CRUD Pase {depende de} CRUD Cliente y TipoPase<br>
 |Listado<br>+<br>detalle| 1. Listado de habitaciones filtrado por tipo de habitación, muestra nro y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
 |CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva|
 
