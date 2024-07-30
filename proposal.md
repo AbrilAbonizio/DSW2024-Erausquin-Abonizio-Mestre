@@ -4,7 +4,7 @@
 ### Integrantes
 * legajo - Apellido(s), Nombre(s)
 * 51153  - Abonizio, Abril
-* 51494  - Mestre, Marcos
+* 51898  - Mestre, Marcos
 
 ### Repositorios
 * [FullStack](https://github.com/AbrilAbonizio/TP-DSW-Centro-Ski.git)
